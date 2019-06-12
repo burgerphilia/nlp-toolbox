@@ -1,7 +1,8 @@
 # Introduction
 model implementations for natural language processing
-detail(Korean):
+
+Detail(Korean):
 
 # Reference
 ## Template
-* https://github.com/victoresque/pytorch-template#requirements
+* https://github.com/victoresque/pytorch-template
