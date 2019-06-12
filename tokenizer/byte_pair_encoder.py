@@ -1,6 +1,8 @@
 from collections import Counter
 from collections import defaultdict
-
+'''
+Reference: https://github.com/lovit/wordpiecemodel
+'''
 class BytePairEncoder:
     
     def __init__(self, n_iters=10, verbose=True):
