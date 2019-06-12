@@ -1,5 +1,6 @@
 # Introduction
 model implementations for natural language processing
+detail(Korean):
 
 # Reference
 ## Template
