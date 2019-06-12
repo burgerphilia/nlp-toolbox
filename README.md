@@ -1,2 +1,6 @@
-# nlp-toolbox
-a model implementation for natural language processing
+# Introduction
+model implementations for natural language processing
+
+# Reference
+## Template
+* https://github.com/victoresque/pytorch-template#requirements
